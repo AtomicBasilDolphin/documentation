@@ -228,7 +228,7 @@ Unzip and save the files somewhere on your computer out of the way, but still re
 
 These effects are great and all but I’m not going to set that up every week. Once you get some settings you’re happy with, save them as a chain for easy, one-click recall.
 
-![Creating FX chain](images/reaper_fxchain.png "Creting FX chain")
+![Creating FX chain](images/reaper_fxchain.png "Creating FX chain")
 
 <h4>Video FX</h4>
 
@@ -236,7 +236,7 @@ All the video FX are presets of the Video Processor FX. Add it and then choose t
 
 A video on some of its capabilities: [https://www.youtube.com/watch?v=SPULwlLjQOU](https://www.youtube.com/watch?v=SPULwlLjQOU)
 
-![Video Processor settings](images/reaper_videoprocessor.png "image_tooltip")
+![Video Processor settings](images/reaper_videoprocessor.png "Video Processor settings")
 
 <h4>Master FX</h4>
 
@@ -255,12 +255,21 @@ Tbh, I’m not sold on my video render settings, but these are, again, good enou
 ## Footnotes
 
 [^1]: Surprisingly unhelpful video from the inventor of recorderman, but it has its charms: [https://www.youtube.com/watch?v=pR3oYOAGhQE](https://www.youtube.com/watch?v=pR3oYOAGhQE) I think he over-exaggerates the need for more mics. Does it sound better, yes. Is it decent with 2, also yes.
+
 [^2]: The other half is blue lasers.
+
 [^3]: Actually, it’s dual mono. I could just plug one channel in but that’s not important right now.
+
 [^4]: https://www.alphr.com/obs-how-to-record-separate-audio-tracks/
+
 [^5]: This sent me down a rabbit hole and I found a Reaper script that might make it easy to record everything in OBS and explode the audio tracks out in Reaper. [https://www.youtube.com/watch?v=diSDgw1g7QE](https://www.youtube.com/watch?v=diSDgw1g7QE) If it works, this changes everything. And by everything I mean it eliminates starting two recordings and the alignment step. So this document might already be outdated.
+
 [^6]: FX install and settings info is in the end notes.
+
 [^7]: Not really necessary if your mics are nearly in phase.
+
 [^8]: Video setup tutorial: [https://www.youtube.com/watch?v=KsH5Neg4KlY](https://www.youtube.com/watch?v=KsH5Neg4KlY) I don’t bother with glueing and splitting, etc. But it walks through the initial setup.
+
 [^9]: Reaper does weird things if you cut a group where the beginning of the items aren't aligned. It wants to preserve the original start positions.
+
 [^10]: Fun drama about it (the issue was fixed in 6.26): [https://www.youtube.com/watch?v=eEQ7K2KVXF4](https://www.youtube.com/watch?v=eEQ7K2KVXF4)
